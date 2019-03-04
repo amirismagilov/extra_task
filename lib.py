@@ -15,3 +15,9 @@ def uniq(data):
             ind = result.index(element)
             del result[ind]
     return result
+
+def sort(data):
+    if data == sorted(data):
+        return True
+    else:
+        return False
