@@ -13,4 +13,5 @@ for number in numbers_sorted[1:]:
     print(i,'.', number)
     i += 1
 print('------------')
-print('Сумма: ', sum(numbers))å
+print('Сумма: ', sum(numbers))
+
